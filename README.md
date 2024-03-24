@@ -5,7 +5,7 @@
 
  여행 상품을 소개하는 웹사이트입니다.
 
-   demo Link : hhttps://octdoki.github.io/mymyrealTrip/
+   demo Link : https://octdoki.github.io/mymyrealTrip/
  
  
   ### 디렉터리 구조
